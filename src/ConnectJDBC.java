@@ -11,7 +11,7 @@ public class ConnectJDBC {
 		try{  
 			Class.forName("com.mysql.cj.jdbc.Driver");  
 			con=DriverManager.getConnection(  
-			"jdbc:mysql://localhost:3306/first?useSSL=false", "root", "Mm12345,");  
+			"jdbc:mysql://localhost:3306/first?useSSL=false", "root", "********");  
 			getAll();
 //			ResultSet rs=stmt.executeQuery("");  
 //			while(rs.next())  
