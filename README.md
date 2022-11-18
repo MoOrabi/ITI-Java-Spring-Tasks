@@ -1,2 +1,5 @@
 ITI Java Spring track tasks
-1 task added (Create table and manipulate it from Java using JDBC)
+
+First task: Create table and manipulate it from Java using JDBC
+
+Second task: Convert pervious project to Maven with singleton applied
